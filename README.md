@@ -12,7 +12,7 @@ Simply click on provided each chapter google colab link to run a test codes.
 
 * Chapter 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IVP-Lab/DIP/blob/master/Chp03(edge-detection).ipynb)
 
-* Chapter 5-a [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IVP-Lab/DIP/blob/master/Chp05a(fourier%20transform).ipynp)
+* Chapter 5-a [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IVP-Lab/DIP/blob/master/Chp05a(fourier%20transform).ipynb)
 
 * Chapter 5-b [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IVP-Lab/DIP/blob/master/Chp05b(fourier%20transform).ipynb)
 
